@@ -2,7 +2,7 @@
 
 In this assignment, you will build a small Python program that calculates a student’s final grade based on a set of simple rules.
 
-You will start with basic information about a student’s assignmentand then use decision structures to update the final result.
+You will start with basic information about a student’s assignment and then use decision structures to update the final result.
 
 ### What your program will do
 
